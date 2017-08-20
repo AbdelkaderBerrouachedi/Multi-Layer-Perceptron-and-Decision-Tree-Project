@@ -144,7 +144,11 @@ E.g: python3 trainDT.py train_data.csv
 
 - It also prints Number of nodes, number of leaf (decision) nodes, maximum, minimum and average depth of root-to-leaf paths
 
-  ![Trained data without Pruning](https://github.com/karan6181/Multi-Layer-Perceptron-and-Decision-Tree-Project/blob/master/Output/DT/train_DB_Not_pruned.png)*Trained Decision Boundary Without pruning*
+  1. **Train data Decision Boundary without pruning**
+
+  ![Trained data without Pruning](https://github.com/karan6181/Multi-Layer-Perceptron-and-Decision-Tree-Project/blob/master/Output/DT/train_DB_Not_pruned.png)
+
+  1. **Train data Decision Boundary with pruning**
 
   ![Trained data with Pruning](https://github.com/karan6181/Multi-Layer-Perceptron-and-Decision-Tree-Project/blob/master/Output/DT/train_DB_Pruned.png)
 
@@ -209,7 +213,16 @@ E.g:
 ```
 
 - It generates a decision boundary graph for test data( with and without prune )
+
 - It prints the accuracy, profit, and confusion matrix for test data ( with and without prune )
+
+  | Parameter                  | Details                                  |
+  | -------------------------- | ---------------------------------------- |
+  | \<train_file\>             | Train csv file to train the Decision Tree |
+  | \<decision tree csv file\> | It's either DTree.csv for Decision Tree without pruning or PDTree.csv for Decision Tree with Pruning |
+  | \<test data csv file\>     | Test csv file to test the correctness of the data on trained Decision Tree |
+
+  ​
 
 1. **Without Pruning:**
 
