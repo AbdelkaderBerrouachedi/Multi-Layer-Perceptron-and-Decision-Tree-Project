@@ -150,7 +150,7 @@ E.g: python3 trainDT.py train_data.csv
 
   ![Trained data without Pruning](https://github.com/karan6181/Multi-Layer-Perceptron-and-Decision-Tree-Project/blob/master/Output/DT/train_DB_Not_pruned.png)
 
-  1. **Train data Decision Boundary with pruning**
+  2. **Train data Decision Boundary with pruning**
 
   ![Trained data with Pruning](https://github.com/karan6181/Multi-Layer-Perceptron-and-Decision-Tree-Project/blob/master/Output/DT/train_DB_Pruned.png)
 
@@ -284,7 +284,7 @@ Total Profit     :  199
 
 ```
 
-1. **With Pruning:**
+2. **With Pruning:**
 
    ![Test data with Pruning](https://github.com/karan6181/Multi-Layer-Perceptron-and-Decision-Tree-Project/blob/master/Output/DT/test_DB_Pruned.png)
 
