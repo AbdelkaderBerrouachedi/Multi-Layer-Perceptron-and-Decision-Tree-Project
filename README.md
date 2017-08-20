@@ -90,7 +90,6 @@ Total  *	 5     		|	 6     		|	 5     		|	 4     		|
 
 Total Profit:  203
 *******************************************************************************************************************
-
 ```
 
 where,
@@ -145,7 +144,7 @@ E.g: python3 trainDT.py train_data.csv
 
 - It also prints Number of nodes, number of leaf (decision) nodes, maximum, minimum and average depth of root-to-leaf paths
 
-  ![Trained data without Pruning](https://github.com/karan6181/Multi-Layer-Perceptron-and-Decision-Tree-Project/blob/master/Output/DT/train_DB_Not_pruned.png)
+  ![Trained data without Pruning](https://github.com/karan6181/Multi-Layer-Perceptron-and-Decision-Tree-Project/blob/master/Output/DT/train_DB_Not_pruned.png)*Trained Decision Boundary Without pruning*
 
   ![Trained data with Pruning](https://github.com/karan6181/Multi-Layer-Perceptron-and-Decision-Tree-Project/blob/master/Output/DT/train_DB_Pruned.png)
 
@@ -268,7 +267,6 @@ Total Profit     :  199
 
 *************************************** END *****************************************
 
-
 ```
 
 1. **With Pruning:**
@@ -314,7 +312,6 @@ Total Profit     :  199
 
 
    *************************************** END *****************************************
-
 
    ```
 
