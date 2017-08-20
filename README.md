@@ -12,6 +12,8 @@
 
 You own a start-up company that sorts and then sells used metal parts. As one of your first contracts, RIT has asked you to do this for parts taken from an old printing press. You need to sort the parts into four categories: 1. bolts, 2. nuts, 3. rings, and 4. scrap. After price negotiations with the school and some research of your own, you produce the table below defining the profit or cost in cents ($0.01) obtained after sorting each part, based on the actual type of the part, and the class assigned automatically to the part by your system in development, SORT-R (patent pending).
 
+![](https://github.com/karan6181/Multi-Layer-Perceptron-and-Decision-Tree-Project/blob/master/Output/snapshot.PNG)
+
 The task is to use machine learning algorithms to create a classifier that accurately identifies the type of each part as it arrives on the conveyor belt.
 
 **Input Data:** CSV format training and testing datasets are provided. Both files contain one sample per line, with data as follows: 
